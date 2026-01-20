@@ -1,0 +1,46 @@
+# Welcome to my blog!
+
+---
+
+> Blogging about all things macOS security, threat intel, music, and more.
+> 
+- macOS security
+- Threat hunting
+- Threat intelligence
+- Electronic music
+
+---
+
+## Posts
+
+---
+
+[Untitled](Welcome%20to%20my%20blog!/Untitled%20fff57d10eff08126896bfc2df073ac86.csv)
+
+---
+
+## Contact
+
+<aside>
+<img src="Welcome%20to%20my%20blog!/Screenshot_2024-09-23_at_21.57.56.png" alt="Welcome%20to%20my%20blog!/Screenshot_2024-09-23_at_21.57.56.png" width="40px" /> [debug_majora](https://twitter.com/debug_majora)
+
+</aside>
+
+<aside>
+<img src="Welcome%20to%20my%20blog!/github.png" alt="Welcome%20to%20my%20blog!/github.png" width="40px" /> [debug-majora](https://github.com/debug-majora)
+
+</aside>
+
+<aside>
+🌐 [debug-majora.com](http://debug-majora.com) (tbd!)
+
+</aside>
+
+---
+
+## Site Details
+
+---
+
+- Header photo is courtesy of [Christian Lue](https://unsplash.com/photos/a-bridge-over-a-river-next-to-a-mountain-AeUkq4YKvHU).
+- Site powered by Notion

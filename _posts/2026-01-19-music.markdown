@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Music"
+date: 2026-01-19 00:00
+permalink: /music/2026-01-19/
+wide: true
+tag: 
+    - music
+    - trance
+    - edm
+category: blog
+author: majora
+#image: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=2070"
+#headerImage: true
+externalLink: false
+hidden: false
+description: "Music I’m currently enjoying."
+---
+
+![Header Image](https://images.unsplash.com/photo-1578946956088-940c3b502864?q=80&w=2823&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+*Photo by [Zachary Smith](https://unsplash.com/@lokoslens) on Unsplash*
+
+## Intro
+
+Ever since I was introduced to music, specifically electronic music, I fell in love. Something about it was so mesmerizing and captivating that it pulled my curiosity in a way that other music hadn’t. The first proper song I was introduced too was [Never Say Never](https://www.youtube.com/watch?v=YS3uxww2WKo&list=RDYS3uxww2WKo) by Armin Van Buuren, an absolute classic. This page is dedicated to not just trance music, but music that resonates with me currently, or did at some special moment and time. 
+
+In 2025 I listened to nearly 90,000 minutes of music on Spotify *alone.* This doesn’t capture any offline listening (e.g old compilations) so I estimate the number to be well over 100,000 minutes!
+
+<div style="max-width: 38%; margin: 0 0 2rem;">
+    <img src="https://i.imgur.com/subbNk3.jpeg" alt="spotify recap" style="width: 100%; border-radius: 8px; display: block;" loading="lazy" />
+</div>
+
+---
+
+## Currently in rotation
+
+A hand selection of tunes and mixes I’m currently enjoying.
+
+1. **Sundriver - Feel (Nitrous Oxide Remix)**
+    1. Uplighting trance remix by Nitrous Oxide. Check out [Armin’s ASOT 400](https://www.youtube.com/watch?v=YPhrf9FD4Mw&list=RDYPhrf9FD4Mw&start_radio=1) set for a banging mashup with OceanLab’s, “Satellite”.
+    
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/QBS5wUf11n0" title="Sundriver - Feel (Nitrous Oxide Remix)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+2. **ASOT 544 Mix**
+    1. Great two hour trance music for studying/working.
+    
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/xZgsMUR3X4Y" title="ASOT 544 Mix" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
+1. **Skream & Benga - Midnight Control (ft. Emily Makis)**
+    1. Skream and Benga in 2026? 🔥
+    
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/MgQcYaSl4Bw" title="Skream & Benga - Midnight Control" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
+1. **Trance Around The World (Radio Show)**
+    1. My daily rotation at work. This was Above and Beyond’s precursor radio show before the now infamous, Group Therapy Radio. The YouTube channel linked below, Filmic, features nearly the entire catalog.  
+    
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/adKblZ0oNEE" title="Trance Around The World" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

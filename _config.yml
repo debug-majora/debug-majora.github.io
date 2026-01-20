@@ -18,21 +18,68 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Debug Majora's blog
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: debug_majora
-github_username:  debug-majora
+title: Debug Majora
+bio: "Blogging about all things macOS security, threat intel, music, and more."
+
+# twitter summary info
+description: >-
+  Debug Majora's blog.
+
+# If it's an external image, set to true.
+external-image: true
+picture: https://avatars.githubusercontent.com/u/86309481?v=4
+
+# Theme: true = dark, false = light, auto = follow system.
+dark-theme: auto
+
+baseurl: "" # user/organization pages repo => keep empty
+url: "https://debug-majora.github.io" # set to https://debug-majora.github.io when ready
+
+permalink: /:title/
+
+twitter: debug_majora
+github: debug-majora
+email: 
+
+authors:
+  majora:
+    name: Majora
+    bio: "test bio"
+    external-image: true
+    picture: https://avatars.githubusercontent.com/u/86309481?v=4
+    twitter: debug_majora
+
+width: normal
+projects: true
+about: true
+blog: true
+read-time: true
+show-tags: true
+related: true
+post-advance-links: [blog]
+show-author: true
+animation: true
+
+defaults:
+  - scope:
+      path: ""
+      layout: "post"
+    values:
+      hidden: false
 
 # Build settings
-theme: minima
 plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - FAQ.md
+  - vendor
 
 # Exclude from processing.
 # The following items will not be processed, by default.
