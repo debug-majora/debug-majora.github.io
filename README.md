@@ -4,7 +4,7 @@ This repository contains the source for [Debug Majora](https://debug-majora.gith
 
 ## Preview
 
-![Screenshot of Debug Majora](assets/preview.png)
+![Screenshot of Debug Majora](assets/images/preview.png)
 
 ## Content Structure
 
