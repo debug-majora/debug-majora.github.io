@@ -8,5 +8,4 @@ wide: true
 
 ### Hi, hola, or Zdravo! I go by Debug Majora and I am currently a Security Engineer
 
-- with a strong emphasis on Threat Intelligence. My primary interests focus on macOS-related threats, including malware research, threat hunting, detection engineering, and purple teaming.
-- outside of security, I have a passion towards animal welfare, and electronic music (trance!). Check out my [music section](http://localhost:4000/music/2026-01-19/) for tunes i’m currently enjoying and visit my [compassion page](/compassion/) to learn about animal welfare, and making our planet a better place for all.
+with a strong emphasis on Threat Intelligence. My primary interests are macOS-related threats, as well as malware, threat hunting, detection engineering, phishing, and purple teaming. Outside of security, I have a passion towards animal welfare, and electronic music (trance!). Check out my [music section](https://debug-majora.github.io/music/2026-01-21/) for more information, and visit my [compassion page](/compassion/) to learn about animal welfare, and making our planet a better place for all.
