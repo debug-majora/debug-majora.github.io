@@ -45,7 +45,7 @@ After invoking the '--help' flag, we can see the available options below. We'll 
 
 Invoking the analyze command with our "Deepseek" sample, we can see Infekja begin its analysis. Lets walk through each step it performs:
 
-- observes the file type (valid DMG in this case) and where it oriqinates from.
+- observes the file type (valid DMG in this case) and where it originates from.
 - gathers file metadata: sha256 hash, signing info
 - queries VirusTotal for reputation information, as well as an optional dropped files -> sigma rules pivot.
 
