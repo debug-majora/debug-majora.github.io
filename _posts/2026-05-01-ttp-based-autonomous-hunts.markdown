@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "TTP Based Autonomous Hunts"
-date: 2026-02-15 00:00
-permalink: /ttp-based-autonomous-hunts/2026-05-01/
+date: 2026-06-01 00:00
+permalink: /ttp-based-autonomous-hunts/2026-06-01/
 wide: true
 tag: 
     - CTI
